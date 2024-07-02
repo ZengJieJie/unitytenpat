@@ -142,7 +142,7 @@
 		C66D8C9D2C340F3D006CBD7F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C66D8CA32C340F3D006CBD7F /* Unity-Target-New.app */,
+				C66D8CA32C340F3D006CBD7F /* 2D3.app */,
 				C66D8CA52C340F3D006CBD7F /* Unity-iPhone Tests.xctest */,
 				C66D8CA72C340F3D006CBD7F /* UnityFramework.framework */,
 			);
@@ -313,10 +313,9 @@
 /* End PBXProject section */
 
 /* Begin PBXReferenceProxy section */
-		C66D8CA32C340F3D006CBD7F /* Unity-Target-New.app */ = {
+		C66D8CA32C340F3D006CBD7F /* 2D3.app */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.application;
-			name = "Unity-Target-New.app";
 			path = 2D3.app;
 			remoteRef = C66D8CA22C340F3D006CBD7F /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
@@ -591,8 +590,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 1.1;
 				DEVELOPMENT_TEAM = "";
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -625,8 +625,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 1.1;
 				DEVELOPMENT_TEAM = "";
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
